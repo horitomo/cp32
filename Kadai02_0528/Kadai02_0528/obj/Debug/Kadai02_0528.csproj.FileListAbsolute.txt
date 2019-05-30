@@ -1,0 +1,13 @@
+C:\hal\CP32\Kadai02_0528\Kadai02_0528\bin\Debug\Kadai02_0528.exe.config
+C:\hal\CP32\Kadai02_0528\Kadai02_0528\bin\Debug\Kadai02_0528.exe
+C:\hal\CP32\Kadai02_0528\Kadai02_0528\bin\Debug\Kadai02_0528.pdb
+C:\hal\CP32\Kadai02_0528\Kadai02_0528\obj\Debug\Kadai02_0528.csprojAssemblyReference.cache
+C:\hal\CP32\Kadai02_0528\Kadai02_0528\obj\Debug\Kadai02_0528.Form1.resources
+C:\hal\CP32\Kadai02_0528\Kadai02_0528\obj\Debug\Kadai02_0528.Properties.Resources.resources
+C:\hal\CP32\Kadai02_0528\Kadai02_0528\obj\Debug\Kadai02_0528.csproj.GenerateResource.cache
+C:\hal\CP32\Kadai02_0528\Kadai02_0528\obj\Debug\Kadai02_0528.csproj.CoreCompileInputs.cache
+C:\hal\CP32\Kadai02_0528\Kadai02_0528\obj\Debug\Kadai02_0528.exe
+C:\hal\CP32\Kadai02_0528\Kadai02_0528\obj\Debug\Kadai02_0528.pdb
+C:\hal\CP32\Kadai02_0528\Kadai02_0528\bin\Debug\calculator.resx
+C:\hal\CP32\Kadai02_0528\Kadai02_0528\bin\Debug\calculator.cs
+C:\hal\CP32\Kadai02_0528\Kadai02_0528\bin\Debug\.Designer.cs
