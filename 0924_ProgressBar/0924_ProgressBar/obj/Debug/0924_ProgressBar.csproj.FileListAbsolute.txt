@@ -1,0 +1,10 @@
+C:\hal\CP32\0924_ProgressBar\0924_ProgressBar\bin\Debug\0924_ProgressBar.exe.config
+C:\hal\CP32\0924_ProgressBar\0924_ProgressBar\bin\Debug\0924_ProgressBar.exe
+C:\hal\CP32\0924_ProgressBar\0924_ProgressBar\bin\Debug\0924_ProgressBar.pdb
+C:\hal\CP32\0924_ProgressBar\0924_ProgressBar\obj\Debug\0924_ProgressBar.csprojAssemblyReference.cache
+C:\hal\CP32\0924_ProgressBar\0924_ProgressBar\obj\Debug\_0924_ProgressBar.Form1.resources
+C:\hal\CP32\0924_ProgressBar\0924_ProgressBar\obj\Debug\_0924_ProgressBar.Properties.Resources.resources
+C:\hal\CP32\0924_ProgressBar\0924_ProgressBar\obj\Debug\0924_ProgressBar.csproj.GenerateResource.cache
+C:\hal\CP32\0924_ProgressBar\0924_ProgressBar\obj\Debug\0924_ProgressBar.csproj.CoreCompileInputs.cache
+C:\hal\CP32\0924_ProgressBar\0924_ProgressBar\obj\Debug\0924_ProgressBar.exe
+C:\hal\CP32\0924_ProgressBar\0924_ProgressBar\obj\Debug\0924_ProgressBar.pdb

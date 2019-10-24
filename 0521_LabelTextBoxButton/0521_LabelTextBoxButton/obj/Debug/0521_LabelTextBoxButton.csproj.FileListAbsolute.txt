@@ -1,0 +1,10 @@
+C:\hal\CP32\0521_LabelTextBoxButton\0521_LabelTextBoxButton\bin\Debug\0521_LabelTextBoxButton.exe.config
+C:\hal\CP32\0521_LabelTextBoxButton\0521_LabelTextBoxButton\bin\Debug\0521_LabelTextBoxButton.exe
+C:\hal\CP32\0521_LabelTextBoxButton\0521_LabelTextBoxButton\bin\Debug\0521_LabelTextBoxButton.pdb
+C:\hal\CP32\0521_LabelTextBoxButton\0521_LabelTextBoxButton\obj\Debug\_0521_LabelTextBoxButton.main.resources
+C:\hal\CP32\0521_LabelTextBoxButton\0521_LabelTextBoxButton\obj\Debug\_0521_LabelTextBoxButton.Properties.Resources.resources
+C:\hal\CP32\0521_LabelTextBoxButton\0521_LabelTextBoxButton\obj\Debug\0521_LabelTextBoxButton.csproj.GenerateResource.cache
+C:\hal\CP32\0521_LabelTextBoxButton\0521_LabelTextBoxButton\obj\Debug\0521_LabelTextBoxButton.csproj.CoreCompileInputs.cache
+C:\hal\CP32\0521_LabelTextBoxButton\0521_LabelTextBoxButton\obj\Debug\0521_LabelTextBoxButton.exe
+C:\hal\CP32\0521_LabelTextBoxButton\0521_LabelTextBoxButton\obj\Debug\0521_LabelTextBoxButton.pdb
+C:\hal\CP32\0521_LabelTextBoxButton\0521_LabelTextBoxButton\obj\Debug\0521_LabelTextBoxButton.csprojAssemblyReference.cache

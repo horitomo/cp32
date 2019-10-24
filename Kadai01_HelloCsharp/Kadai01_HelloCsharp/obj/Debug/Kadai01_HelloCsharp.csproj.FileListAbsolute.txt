@@ -1,0 +1,7 @@
+C:\hal\CP32\Kadai01_HelloCsharp\Kadai01_HelloCsharp\bin\Debug\Kadai01_HelloCsharp.exe.config
+C:\hal\CP32\Kadai01_HelloCsharp\Kadai01_HelloCsharp\bin\Debug\Kadai01_HelloCsharp.exe
+C:\hal\CP32\Kadai01_HelloCsharp\Kadai01_HelloCsharp\bin\Debug\Kadai01_HelloCsharp.pdb
+C:\hal\CP32\Kadai01_HelloCsharp\Kadai01_HelloCsharp\obj\Debug\Kadai01_HelloCsharp.csprojAssemblyReference.cache
+C:\hal\CP32\Kadai01_HelloCsharp\Kadai01_HelloCsharp\obj\Debug\Kadai01_HelloCsharp.csproj.CoreCompileInputs.cache
+C:\hal\CP32\Kadai01_HelloCsharp\Kadai01_HelloCsharp\obj\Debug\Kadai01_HelloCsharp.exe
+C:\hal\CP32\Kadai01_HelloCsharp\Kadai01_HelloCsharp\obj\Debug\Kadai01_HelloCsharp.pdb

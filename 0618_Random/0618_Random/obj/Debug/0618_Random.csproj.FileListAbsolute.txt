@@ -1,0 +1,9 @@
+C:\hal\CP32\0618_Random\0618_Random\bin\Debug\0618_Random.exe.config
+C:\hal\CP32\0618_Random\0618_Random\bin\Debug\0618_Random.exe
+C:\hal\CP32\0618_Random\0618_Random\bin\Debug\0618_Random.pdb
+C:\hal\CP32\0618_Random\0618_Random\obj\Debug\_0618_Random.Form1.resources
+C:\hal\CP32\0618_Random\0618_Random\obj\Debug\_0618_Random.Properties.Resources.resources
+C:\hal\CP32\0618_Random\0618_Random\obj\Debug\0618_Random.csproj.GenerateResource.cache
+C:\hal\CP32\0618_Random\0618_Random\obj\Debug\0618_Random.csproj.CoreCompileInputs.cache
+C:\hal\CP32\0618_Random\0618_Random\obj\Debug\0618_Random.exe
+C:\hal\CP32\0618_Random\0618_Random\obj\Debug\0618_Random.pdb

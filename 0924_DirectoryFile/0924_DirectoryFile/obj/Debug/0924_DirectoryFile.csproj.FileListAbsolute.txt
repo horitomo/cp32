@@ -1,0 +1,10 @@
+C:\hal\CP32\0924_DirectoryFile\0924_DirectoryFile\bin\Debug\0924_DirectoryFile.exe.config
+C:\hal\CP32\0924_DirectoryFile\0924_DirectoryFile\bin\Debug\0924_DirectoryFile.exe
+C:\hal\CP32\0924_DirectoryFile\0924_DirectoryFile\bin\Debug\0924_DirectoryFile.pdb
+C:\hal\CP32\0924_DirectoryFile\0924_DirectoryFile\obj\Debug\0924_DirectoryFile.csprojAssemblyReference.cache
+C:\hal\CP32\0924_DirectoryFile\0924_DirectoryFile\obj\Debug\_0924_DirectoryFile.Form1.resources
+C:\hal\CP32\0924_DirectoryFile\0924_DirectoryFile\obj\Debug\_0924_DirectoryFile.Properties.Resources.resources
+C:\hal\CP32\0924_DirectoryFile\0924_DirectoryFile\obj\Debug\0924_DirectoryFile.csproj.GenerateResource.cache
+C:\hal\CP32\0924_DirectoryFile\0924_DirectoryFile\obj\Debug\0924_DirectoryFile.csproj.CoreCompileInputs.cache
+C:\hal\CP32\0924_DirectoryFile\0924_DirectoryFile\obj\Debug\0924_DirectoryFile.exe
+C:\hal\CP32\0924_DirectoryFile\0924_DirectoryFile\obj\Debug\0924_DirectoryFile.pdb

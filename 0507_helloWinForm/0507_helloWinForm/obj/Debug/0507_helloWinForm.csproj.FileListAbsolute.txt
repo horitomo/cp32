@@ -1,0 +1,10 @@
+C:\hal\CP32\0507_helloWinForm\0507_helloWinForm\bin\Debug\0507_helloWinForm.exe.config
+C:\hal\CP32\0507_helloWinForm\0507_helloWinForm\bin\Debug\0507_helloWinForm.exe
+C:\hal\CP32\0507_helloWinForm\0507_helloWinForm\bin\Debug\0507_helloWinForm.pdb
+C:\hal\CP32\0507_helloWinForm\0507_helloWinForm\obj\Debug\0507_helloWinForm.csprojAssemblyReference.cache
+C:\hal\CP32\0507_helloWinForm\0507_helloWinForm\obj\Debug\_0507_helloWinForm.Properties.Resources.resources
+C:\hal\CP32\0507_helloWinForm\0507_helloWinForm\obj\Debug\0507_helloWinForm.csproj.GenerateResource.cache
+C:\hal\CP32\0507_helloWinForm\0507_helloWinForm\obj\Debug\0507_helloWinForm.csproj.CoreCompileInputs.cache
+C:\hal\CP32\0507_helloWinForm\0507_helloWinForm\obj\Debug\0507_helloWinForm.exe
+C:\hal\CP32\0507_helloWinForm\0507_helloWinForm\obj\Debug\0507_helloWinForm.pdb
+C:\hal\CP32\0507_helloWinForm\0507_helloWinForm\obj\Debug\_0507_helloWinForm.FormMain.resources

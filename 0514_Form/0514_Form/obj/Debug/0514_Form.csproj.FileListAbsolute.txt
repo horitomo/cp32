@@ -1,0 +1,10 @@
+C:\hal\CP32\0514_Form\0514_Form\bin\Debug\0514_Form.exe.config
+C:\hal\CP32\0514_Form\0514_Form\bin\Debug\0514_Form.exe
+C:\hal\CP32\0514_Form\0514_Form\bin\Debug\0514_Form.pdb
+C:\hal\CP32\0514_Form\0514_Form\obj\Debug\0514_Form.csprojAssemblyReference.cache
+C:\hal\CP32\0514_Form\0514_Form\obj\Debug\_0514_Form.Properties.Resources.resources
+C:\hal\CP32\0514_Form\0514_Form\obj\Debug\0514_Form.csproj.GenerateResource.cache
+C:\hal\CP32\0514_Form\0514_Form\obj\Debug\0514_Form.csproj.CoreCompileInputs.cache
+C:\hal\CP32\0514_Form\0514_Form\obj\Debug\0514_Form.exe
+C:\hal\CP32\0514_Form\0514_Form\obj\Debug\0514_Form.pdb
+C:\hal\CP32\0514_Form\0514_Form\obj\Debug\_0514_Form.FormMain.resources

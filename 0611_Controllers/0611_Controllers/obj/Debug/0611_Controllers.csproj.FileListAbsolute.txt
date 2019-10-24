@@ -1,0 +1,10 @@
+C:\hal\CP32\0611_Controllers\0611_Controllers\bin\Debug\0611_Controllers.exe.config
+C:\hal\CP32\0611_Controllers\0611_Controllers\bin\Debug\0611_Controllers.exe
+C:\hal\CP32\0611_Controllers\0611_Controllers\bin\Debug\0611_Controllers.pdb
+C:\hal\CP32\0611_Controllers\0611_Controllers\obj\Debug\0611_Controllers.csprojAssemblyReference.cache
+C:\hal\CP32\0611_Controllers\0611_Controllers\obj\Debug\_0611_Controllers.Form1.resources
+C:\hal\CP32\0611_Controllers\0611_Controllers\obj\Debug\_0611_Controllers.Properties.Resources.resources
+C:\hal\CP32\0611_Controllers\0611_Controllers\obj\Debug\0611_Controllers.csproj.GenerateResource.cache
+C:\hal\CP32\0611_Controllers\0611_Controllers\obj\Debug\0611_Controllers.csproj.CoreCompileInputs.cache
+C:\hal\CP32\0611_Controllers\0611_Controllers\obj\Debug\0611_Controllers.exe
+C:\hal\CP32\0611_Controllers\0611_Controllers\obj\Debug\0611_Controllers.pdb

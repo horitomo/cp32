@@ -1,0 +1,21 @@
+オーバーロード
+一つのオブジェクトに複数の引数を指定できる
+
+
+ERROR:0
+INFO:1
+WARNING:2
+NOTICE:3
+
+public static int ERROR=0;
+public static int INFO=1;
+public static int WARNING=2;
+public static int NOTICE=3;
+//メンドクサイ
+
+enum STATUS = {
+	"ERROR","INFO","WARNING","NOTICE"};
+
+if(status == STATUS.WARNING){
+	//警告
+}

@@ -1,0 +1,10 @@
+C:\hal\CP32\0625_Control\0625_Control\bin\Debug\0625_Control.exe.config
+C:\hal\CP32\0625_Control\0625_Control\bin\Debug\0625_Control.exe
+C:\hal\CP32\0625_Control\0625_Control\bin\Debug\0625_Control.pdb
+C:\hal\CP32\0625_Control\0625_Control\obj\Debug\0625_Control.csprojAssemblyReference.cache
+C:\hal\CP32\0625_Control\0625_Control\obj\Debug\_0625_Control.Form1.resources
+C:\hal\CP32\0625_Control\0625_Control\obj\Debug\_0625_Control.Properties.Resources.resources
+C:\hal\CP32\0625_Control\0625_Control\obj\Debug\0625_Control.csproj.GenerateResource.cache
+C:\hal\CP32\0625_Control\0625_Control\obj\Debug\0625_Control.csproj.CoreCompileInputs.cache
+C:\hal\CP32\0625_Control\0625_Control\obj\Debug\0625_Control.exe
+C:\hal\CP32\0625_Control\0625_Control\obj\Debug\0625_Control.pdb

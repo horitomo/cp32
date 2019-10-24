@@ -1,0 +1,10 @@
+C:\hal\CP32\Kadai04_Timer\Kadai04_Timer\bin\Debug\Kadai04_Timer.exe.config
+C:\hal\CP32\Kadai04_Timer\Kadai04_Timer\bin\Debug\Kadai04_Timer.exe
+C:\hal\CP32\Kadai04_Timer\Kadai04_Timer\bin\Debug\Kadai04_Timer.pdb
+C:\hal\CP32\Kadai04_Timer\Kadai04_Timer\obj\Debug\Kadai04_Timer.csprojAssemblyReference.cache
+C:\hal\CP32\Kadai04_Timer\Kadai04_Timer\obj\Debug\Kadai04_Timer.Form1.resources
+C:\hal\CP32\Kadai04_Timer\Kadai04_Timer\obj\Debug\Kadai04_Timer.Properties.Resources.resources
+C:\hal\CP32\Kadai04_Timer\Kadai04_Timer\obj\Debug\Kadai04_Timer.csproj.GenerateResource.cache
+C:\hal\CP32\Kadai04_Timer\Kadai04_Timer\obj\Debug\Kadai04_Timer.csproj.CoreCompileInputs.cache
+C:\hal\CP32\Kadai04_Timer\Kadai04_Timer\obj\Debug\Kadai04_Timer.exe
+C:\hal\CP32\Kadai04_Timer\Kadai04_Timer\obj\Debug\Kadai04_Timer.pdb

@@ -1,0 +1,9 @@
+C:\hal\CP32\0618_Enum\0618_Enum\bin\Debug\0618_Enum.exe.config
+C:\hal\CP32\0618_Enum\0618_Enum\bin\Debug\0618_Enum.exe
+C:\hal\CP32\0618_Enum\0618_Enum\bin\Debug\0618_Enum.pdb
+C:\hal\CP32\0618_Enum\0618_Enum\obj\Debug\_0618_Enum.Form1.resources
+C:\hal\CP32\0618_Enum\0618_Enum\obj\Debug\_0618_Enum.Properties.Resources.resources
+C:\hal\CP32\0618_Enum\0618_Enum\obj\Debug\0618_Enum.csproj.GenerateResource.cache
+C:\hal\CP32\0618_Enum\0618_Enum\obj\Debug\0618_Enum.csproj.CoreCompileInputs.cache
+C:\hal\CP32\0618_Enum\0618_Enum\obj\Debug\0618_Enum.exe
+C:\hal\CP32\0618_Enum\0618_Enum\obj\Debug\0618_Enum.pdb

@@ -1,0 +1,10 @@
+C:\hal\CP32\Kadai03_NoughtsCrosses\Kadai03_NoughtsCrosses\bin\Debug\Kadai03_NoughtsCrosses.exe.config
+C:\hal\CP32\Kadai03_NoughtsCrosses\Kadai03_NoughtsCrosses\bin\Debug\Kadai03_NoughtsCrosses.exe
+C:\hal\CP32\Kadai03_NoughtsCrosses\Kadai03_NoughtsCrosses\bin\Debug\Kadai03_NoughtsCrosses.pdb
+C:\hal\CP32\Kadai03_NoughtsCrosses\Kadai03_NoughtsCrosses\obj\Debug\Kadai03_NoughtsCrosses.FromMain.resources
+C:\hal\CP32\Kadai03_NoughtsCrosses\Kadai03_NoughtsCrosses\obj\Debug\Kadai03_NoughtsCrosses.Properties.Resources.resources
+C:\hal\CP32\Kadai03_NoughtsCrosses\Kadai03_NoughtsCrosses\obj\Debug\Kadai03_NoughtsCrosses.csproj.GenerateResource.cache
+C:\hal\CP32\Kadai03_NoughtsCrosses\Kadai03_NoughtsCrosses\obj\Debug\Kadai03_NoughtsCrosses.csproj.CoreCompileInputs.cache
+C:\hal\CP32\Kadai03_NoughtsCrosses\Kadai03_NoughtsCrosses\obj\Debug\Kadai03_NoughtsCrosses.exe
+C:\hal\CP32\Kadai03_NoughtsCrosses\Kadai03_NoughtsCrosses\obj\Debug\Kadai03_NoughtsCrosses.pdb
+C:\hal\CP32\Kadai03_NoughtsCrosses\Kadai03_NoughtsCrosses\obj\Debug\Kadai03_NoughtsCrosses.csprojAssemblyReference.cache

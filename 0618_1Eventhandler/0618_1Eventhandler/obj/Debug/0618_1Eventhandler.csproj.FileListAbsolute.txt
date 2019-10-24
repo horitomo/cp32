@@ -1,0 +1,10 @@
+C:\hal\CP32\0618_1Eventhandler\0618_1Eventhandler\bin\Debug\0618_1Eventhandler.exe.config
+C:\hal\CP32\0618_1Eventhandler\0618_1Eventhandler\bin\Debug\0618_1Eventhandler.exe
+C:\hal\CP32\0618_1Eventhandler\0618_1Eventhandler\bin\Debug\0618_1Eventhandler.pdb
+C:\hal\CP32\0618_1Eventhandler\0618_1Eventhandler\obj\Debug\0618_1Eventhandler.csprojAssemblyReference.cache
+C:\hal\CP32\0618_1Eventhandler\0618_1Eventhandler\obj\Debug\_0618_1Eventhandler.Form1.resources
+C:\hal\CP32\0618_1Eventhandler\0618_1Eventhandler\obj\Debug\_0618_1Eventhandler.Properties.Resources.resources
+C:\hal\CP32\0618_1Eventhandler\0618_1Eventhandler\obj\Debug\0618_1Eventhandler.csproj.GenerateResource.cache
+C:\hal\CP32\0618_1Eventhandler\0618_1Eventhandler\obj\Debug\0618_1Eventhandler.csproj.CoreCompileInputs.cache
+C:\hal\CP32\0618_1Eventhandler\0618_1Eventhandler\obj\Debug\0618_1Eventhandler.exe
+C:\hal\CP32\0618_1Eventhandler\0618_1Eventhandler\obj\Debug\0618_1Eventhandler.pdb

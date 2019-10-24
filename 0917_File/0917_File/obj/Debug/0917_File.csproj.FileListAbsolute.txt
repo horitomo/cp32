@@ -1,0 +1,10 @@
+C:\hal\CP32\0917_File\0917_File\bin\Debug\0917_File.exe.config
+C:\hal\CP32\0917_File\0917_File\bin\Debug\0917_File.exe
+C:\hal\CP32\0917_File\0917_File\bin\Debug\0917_File.pdb
+C:\hal\CP32\0917_File\0917_File\obj\Debug\0917_File.csprojAssemblyReference.cache
+C:\hal\CP32\0917_File\0917_File\obj\Debug\_0917_File.Form1.resources
+C:\hal\CP32\0917_File\0917_File\obj\Debug\_0917_File.Properties.Resources.resources
+C:\hal\CP32\0917_File\0917_File\obj\Debug\0917_File.csproj.GenerateResource.cache
+C:\hal\CP32\0917_File\0917_File\obj\Debug\0917_File.csproj.CoreCompileInputs.cache
+C:\hal\CP32\0917_File\0917_File\obj\Debug\0917_File.exe
+C:\hal\CP32\0917_File\0917_File\obj\Debug\0917_File.pdb

@@ -1,0 +1,10 @@
+C:\hal\CP32\0618_Tag\0618_Tag\bin\Debug\0618_Tag.exe.config
+C:\hal\CP32\0618_Tag\0618_Tag\bin\Debug\0618_Tag.exe
+C:\hal\CP32\0618_Tag\0618_Tag\bin\Debug\0618_Tag.pdb
+C:\hal\CP32\0618_Tag\0618_Tag\obj\Debug\0618_Tag.csprojAssemblyReference.cache
+C:\hal\CP32\0618_Tag\0618_Tag\obj\Debug\_0618_Tag.Form1.resources
+C:\hal\CP32\0618_Tag\0618_Tag\obj\Debug\_0618_Tag.Properties.Resources.resources
+C:\hal\CP32\0618_Tag\0618_Tag\obj\Debug\0618_Tag.csproj.GenerateResource.cache
+C:\hal\CP32\0618_Tag\0618_Tag\obj\Debug\0618_Tag.csproj.CoreCompileInputs.cache
+C:\hal\CP32\0618_Tag\0618_Tag\obj\Debug\0618_Tag.exe
+C:\hal\CP32\0618_Tag\0618_Tag\obj\Debug\0618_Tag.pdb
